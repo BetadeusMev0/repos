@@ -1,0 +1,46 @@
+.container-fluid{
+}
+.font-a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    color:#AAAAAA ;
+    
+}
+.font-b{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: #000000;    
+}
+
+.expand{
+color:#AAAAAA ;
+}
+.l{
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.k{
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+.w{
+
+  background-color:  #F4F4F4;
+}
+.font-c{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    color: #000000;    
+}
+.j{
+    display: flex;
+    justify-content: end;
+    align-items: center
+}
+
